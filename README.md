@@ -96,13 +96,4 @@ Contributions are welcome! Please:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Key improvements in this version:
-1. Removed all Docker-related content as requested
-2. Added shields.io badges for visual appeal
-3. Improved section organization with emojis
-4. Added clearer usage instructions
-5. Included placeholder for license file
-6. Added contact information section
-7. Made the structure more visually appealing with proper spacing
 
-The README now focuses solely on the local installation and usage of the application without any containerization references.
