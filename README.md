@@ -26,8 +26,8 @@ An AI-powered system that matches job descriptions with candidate resumes using 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MahmoudAbuAwd/Resume-Job-Matching-Using-Hugging-Face-Model.git
-   cd Resume-Job-Matching-Using-Hugging-Face-Model
+   git clone https://github.com/MahmoudAbuAwd/jobMatchingAI.git
+   cd jobMatchingAI
    ```
 
 2. Install dependencies:
@@ -95,14 +95,6 @@ Contributions are welcome! Please:
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📧 Contact
-
-For questions or suggestions:
-- Mahmoud Abu Awd
-- [Mahmoodabuawad08@gmail.com]
-- [www.linkedin/in/mahmoud-abuawd/]
-```
 
 Key improvements in this version:
 1. Removed all Docker-related content as requested
