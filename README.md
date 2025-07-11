@@ -1,6 +1,4 @@
-Here's the updated `README.md` without any Docker references:
 
-```markdown
 # Resume-Job Matching System with Hugging Face
 
 ![AI Matching System](https://img.shields.io/badge/AI-NLP-blue)
