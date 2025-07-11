@@ -1,0 +1,21 @@
+job_id,title,description,required_skills,experience_level
+JD1000,Software Engineer,Develop and maintain software applications using Python and Java. Experience with Django/Flask required.,"Python, Java, Django, Flask, OOP",Mid-level
+JD1001,Data Scientist,"Analyze complex datasets to extract insights. Proficient in Python, R, SQL, and machine learning frameworks.","Python, R, SQL, Machine Learning, Statistics",Senior
+JD1002,Marketing Manager,Develop marketing strategies and campaigns. Strong communication and analytical skills required.,"Marketing, Communication, Analytics, Social Media",Mid-level
+JD1003,Product Manager,Lead product development from conception to launch. Experience with Agile methodologies preferred.,"Product Management, Agile, Market Research, Leadership",Senior
+JD1004,HR Specialist,Manage recruitment and employee relations. Knowledge of labor laws and HR best practices.,"HR, Recruitment, Labor Laws, Communication",Entry-level
+JD1005,Financial Analyst,Prepare financial reports and forecasts. Advanced Excel skills and accounting knowledge required.,"Finance, Accounting, Excel, Financial Modeling",Mid-level
+JD1006,UX Designer,Design user interfaces and experiences. Proficiency in Figma and Adobe Creative Suite.,"UI/UX, Figma, Adobe Creative Suite, Prototyping",Mid-level
+JD1007,DevOps Engineer,"Implement and maintain CI/CD pipelines. Experience with AWS, Docker, and Kubernetes.","AWS, Docker, Kubernetes, CI/CD, Linux",Senior
+JD1008,Sales Representative,Generate leads and close sales. Strong interpersonal skills and target-driven mindset.,"Sales, Negotiation, Communication, CRM",Entry-level
+JD1009,Content Writer,Create engaging content for websites and social media. Excellent writing and research skills.,"Writing, Research, SEO, Content Management",Entry-level
+JD1010,Cybersecurity Analyst,Protect systems from cyber threats. Knowledge of ethical hacking and security protocols.,"Cybersecurity, Ethical Hacking, Network Security",Senior
+JD1011,AI Researcher,Conduct research in artificial intelligence. PhD preferred with publications in ML conferences.,"Machine Learning, Research, Python, TensorFlow",Senior
+JD1012,Business Analyst,Analyze business processes and recommend improvements. Strong problem-solving skills required.,"Business Analysis, Problem Solving, Data Visualization",Mid-level
+JD1013,Network Administrator,Maintain and troubleshoot network infrastructure. CCNA certification preferred.,"Networking, CCNA, Troubleshooting, Security",Mid-level
+JD1014,Digital Marketer,Develop and execute digital marketing campaigns. Experience with SEO and PPC required.,"Digital Marketing, SEO, PPC, Analytics",Mid-level
+JD1015,Operations Manager,Oversee daily operations and improve efficiency. Strong leadership and organizational skills.,"Operations, Leadership, Process Improvement",Senior
+JD1016,Graphic Designer,Create visual content for branding and marketing. Proficiency in Adobe Illustrator and Photoshop.,"Graphic Design, Adobe Illustrator, Photoshop",Mid-level
+JD1017,Database Administrator,Manage and optimize database systems. Experience with SQL and NoSQL databases.,"SQL, Database Management, Performance Tuning",Senior
+JD1018,Customer Support,Provide excellent customer service and resolve issues. Patience and communication skills essential.,"Customer Service, Problem Solving, Communication",Entry-level
+JD1019,Technical Writer,Create technical documentation and manuals. Ability to explain complex concepts simply.,"Technical Writing, Documentation, Communication",Mid-level

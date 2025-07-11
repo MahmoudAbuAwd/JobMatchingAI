@@ -1,0 +1,51 @@
+resume_id,candidate_name,skills,experience_years,education
+RES2000,Candidate_0,"Python, Java, SQL, OOP, Algorithms",2,BS Computer Science
+RES2001,Candidate_1,"Python, R, Machine Learning, Statistics",2,MS Data Science
+RES2002,Candidate_2,"Marketing, Social Media, Content Creation",8,BA Marketing
+RES2003,Candidate_3,"Project Management, Agile, Leadership",1,MBA
+RES2004,Candidate_4,"HR, Recruitment, Employee Relations",4,BA Psychology
+RES2005,Candidate_5,"Finance, Accounting, Excel, Analysis",9,BS Finance
+RES2006,Candidate_6,"UI/UX, Figma, Adobe XD, Prototyping",6,BFA Design
+RES2007,Candidate_7,"AWS, Docker, Linux, Bash",4,BS Computer Engineering
+RES2008,Candidate_8,"Sales, CRM, Negotiation, Communication",3,BA Business Administration
+RES2009,Candidate_9,"Writing, Editing, SEO, Blogging",7,BA English
+RES2010,Candidate_10,"Cybersecurity, Network Security, Ethical Hacking",9,MS Cybersecurity
+RES2011,Candidate_11,"Machine Learning, Deep Learning, Python",4,PhD Artificial Intelligence
+RES2012,Candidate_12,"Business Analysis, Data Visualization, SQL",2,BS Business Administration
+RES2013,Candidate_13,"Networking, CCNA, Troubleshooting",2,BS Network Engineering
+RES2014,Candidate_14,"Digital Marketing, SEO, Google Analytics",3,BA Communications
+RES2015,Candidate_15,"Operations, Supply Chain, Logistics",7,BS Operations Management
+RES2016,Candidate_16,"Graphic Design, Adobe Creative Suite",7,BFA Graphic Design
+RES2017,Candidate_17,"SQL, Database Design, Optimization",1,BS Information Systems
+RES2018,Candidate_18,"Customer Service, Problem Solving",4,AA General Studies
+RES2019,Candidate_19,"Technical Writing, Documentation",7,BA Technical Communication
+RES2020,Candidate_20,"Python, Django, REST APIs, JavaScript",2,BS Software Engineering
+RES2021,Candidate_21,"Data Science, Pandas, NumPy, Scikit-learn",9,MS Computer Science
+RES2022,Candidate_22,"Content Marketing, Copywriting, Social Media",1,BA Journalism
+RES2023,Candidate_23,"Product Development, Market Research",3,MS Product Management
+RES2024,Candidate_24,"Training, Onboarding, HR Policies",9,BA Human Resources
+RES2025,Candidate_25,"Financial Modeling, Risk Assessment",0,MS Finance
+RES2026,Candidate_26,"User Research, Wireframing, UI Design",9,BS Human-Computer Interaction
+RES2027,Candidate_27,"CI/CD, Jenkins, Terraform, Ansible",3,BS Cloud Computing
+RES2028,Candidate_28,"B2B Sales, Account Management",3,BA Economics
+RES2029,Candidate_29,"Content Strategy, Editorial Planning",10,MA Creative Writing
+RES2030,Candidate_30,"Penetration Testing, Security Audits",4,BS Information Security
+RES2031,Candidate_31,"NLP, Computer Vision, PyTorch",3,PhD Machine Learning
+RES2032,Candidate_32,"Process Improvement, Requirements Gathering",8,BS Business Analytics
+RES2033,Candidate_33,"Firewall Configuration, VPN Setup",9,BS Cybersecurity
+RES2034,Candidate_34,"PPC, Social Media Advertising",5,BA Digital Media
+RES2035,Candidate_35,"Inventory Management, Lean Six Sigma",3,BS Supply Chain Management
+RES2036,Candidate_36,"Illustration, Branding, Packaging Design",10,BFA Digital Arts
+RES2037,Candidate_37,"MongoDB, PostgreSQL, Data Warehousing",1,MS Database Systems
+RES2038,Candidate_38,"Helpdesk Support, Ticketing Systems",8,AA Customer Service
+RES2039,Candidate_39,"API Documentation, User Manuals",7,BS Technical Writing
+RES2040,Candidate_40,"JavaScript, React, Node.js",8,BS Web Development
+RES2041,Candidate_41,"Big Data, Hadoop, Spark",10,MS Big Data Analytics
+RES2042,Candidate_42,"PR, Media Relations, Crisis Communication",9,BA Public Relations
+RES2043,Candidate_43,"Scrum, JIRA, Roadmapping",6,BS Information Technology
+RES2044,Candidate_44,"Compensation, Benefits Administration",9,BA Organizational Development
+RES2045,Candidate_45,"Auditing, Compliance, Risk Management",7,BS Accounting
+RES2046,Candidate_46,"Accessibility Design, WCAG",4,BS Interaction Design
+RES2047,Candidate_47,"Microservices, Serverless Architecture",7,MS Distributed Systems
+RES2048,Candidate_48,"Retail Sales, Customer Acquisition",0,BA Sales Management
+RES2049,Candidate_49,"Grant Writing, Proposal Development",6,MA Professional Writing
